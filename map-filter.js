@@ -6,7 +6,7 @@ for (let i = 0; i < numbers.length; i++) {
     const result = element * element;
     output.push(result);
 };
-// constconsole.log(output);
+// console.log(output);
 
 // অথবা
 function square(element) {
@@ -22,7 +22,7 @@ console.log(result);
 //অথবা
 const square = element * element
 
-// অথবা 
+// অথবা
 const square = x => x * x;
 
 
